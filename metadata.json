@@ -1,0 +1,6 @@
+{
+  "name": "Diet Coke Tech Showcase",
+  "description": "A futuristic consumer-technology style product launch presentation for Diet Coke, structured as a high-end hardware reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
