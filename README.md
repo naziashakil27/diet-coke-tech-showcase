@@ -2,7 +2,9 @@
 
 An interactive, high-fidelity cybernetic telemetry showcase for Diet Coke. Blending industrial tech design, responsive UI layouts, and immersive 3D canvas rendering to visualize the iconic brand.
 
-👉 **[Live Showcase Website](https://naziashakil27.github.io/diet-coke-tech-showcase/)**
+### 🌐 Live Deployments
+*   🚀 **[Vercel Live Site](https://diet-coke-tech-showcase.vercel.app/)**
+*   🐙 **[GitHub Pages Mirror](https://naziashakil27.github.io/diet-coke-tech-showcase/)**
 
 ---
 
